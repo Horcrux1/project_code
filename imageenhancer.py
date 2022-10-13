@@ -1,5 +1,10 @@
 # Copyright: Pouyan B. Navard @ Photogrammetric Computervision Labaratory 
 # Reference: Enhancing Photographs with Near Infrared Images, Zhang et al. 2008
+from skimage.exposure import match_histograms
+import matplotlib.pyplot as plt
+import numpy as np
+import cv2
+import pywt
 
 class EnhanceImage():
 	def __init__(self, RGB_IMG_DIR, NIR_IMG_DIR):
