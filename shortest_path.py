@@ -1,3 +1,4 @@
+# Copyright: Pouyan B. Navard @ PCVLab @ OSU 
 import itertools
 import numpy
 import cv2
