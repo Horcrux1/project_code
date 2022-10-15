@@ -1,3 +1,5 @@
+// Copyright: Pouyan B. Navard @ PCVLab @ OSU 
+
 #include <string>
 #include <iostream>
 #include <boost/format.hpp>
