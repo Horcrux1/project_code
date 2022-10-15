@@ -1,3 +1,5 @@
+// Copyright: Pouyan B. Navard @ PCVLab @ OSU 
+
 #include <iostream>
 #include <vector>
 #include <string>
