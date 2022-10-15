@@ -1,3 +1,5 @@
+// Copyright: Pouyan B. Navard @ PCLab @ OSU 
+
 #include "vinsmonoparser.h"
 
 #define LOG(X) std::cout << X << std::endl
