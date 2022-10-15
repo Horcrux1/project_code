@@ -1,3 +1,5 @@
+// Copyright: Pouyan B. Navard @ PCVLab @ OSU 
+
 #include "pointcloudregistration.h"
 
 #define LOG(X) std::cout << X << std::endl
